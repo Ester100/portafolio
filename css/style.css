@@ -1,0 +1,182 @@
+* {
+  margin: 0!important;
+}
+.fondo1 {
+  background:url(../img/footer.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+  width: 100%;
+  height: 600px;
+}
+.textmenu {
+  color: #8CACB8;
+  font-size: 20px;
+  padding: 3%;
+  transition: 1s;
+  text-transform: capitalize;
+}
+.textmenu:hover {
+  color:#FFF;
+  text-decoration: underline;
+}
+.container {
+  background: rgba(0, 0, 0, 0.5);
+}
+.fondo1 h1 {
+  color: #96C9DC;
+  font-size: 65px;
+  font-family: "lato";
+  padding-left: 5%;
+  padding-top:18%;
+  transition:1s;
+}
+.fondo1 h1:hover {
+  color: #FFF;
+}
+.fondo2 {
+    background:url(../img/fondo2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    width: 100%;
+    height: 500px;
+}
+.izquierda {
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 50%;
+  height: 100%;
+}
+.izquierda h1 {
+  color: #fff;
+  font-size: 50px;
+  font-family: "lato";
+  padding-top: 25%;
+  padding-left: 5%;
+  text-shadow: 1px 1px 1px #000;
+}
+.izquierda p {
+  color: #fff;
+  font-size: 30px;
+  font-family: "lato";
+  padding: 1%;
+  padding-left: 5%;
+  text-shadow: 1px 1px 1px #000;
+}
+.fondo3 {
+  background: url(../img/fondo3.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 500px;
+}
+.derecha {
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 50%;
+  height:500px;
+}
+.derecha h1 {
+  color: #fff;
+  font-size: 50px;
+  font-family: "lato";
+  padding-top: 25%;
+  padding-left: 5%;
+  text-shadow: 1px 1px 1px #000;
+
+}
+.derecha p {
+  color: #fff;
+  font-size: 30px;
+  font-family: "lato";
+  padding: 1%;
+  padding-left: 5%;
+  text-shadow: 1px 1px 1px #000;
+}
+.fondo4 {
+  background: rgba(61,88,113,1);
+  width: 100%;
+  height: 500px;
+}
+.fondo4 h1 {
+  color: #92EAE9;
+  text-align: center;
+  font-family: "lato";
+  font-size: 35px;
+  padding-top: 33%;
+  transition: 1s;
+}
+.fondo4 h1:hover  {
+  color: #E3072F;
+  font-size:45px;
+  text-shadow: 1px 1px 1px #000;
+}
+.fondo5 {
+  background: url(../img/ejemplo1.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 550px;
+}
+.fondo5 .negro  {
+  background: rgba(251,255,161,.3);
+  width: 100%;
+  height:100%;
+}
+.negro h1 {
+  color:#fff;
+  text-align: center;
+  padding-top: 20%;
+  font-size: 45px;
+  font-family: "lato";
+  text-shadow: 1px 1px 1px #9F2334;
+}
+.fondo6 {
+    background:url(../img/poke.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+    transition: 2s;
+}
+.fondo6 h1 {
+  color: #FCB3B3;
+  font-size: 55px;
+  font-family: "lato";
+  text-align: center;
+  padding-top: 15%;
+}
+.fondo6 p {
+  color: #88B4B2;
+  font-size: 35px;
+  font-family: "lato";
+  text-align: center;
+}
+.fondo6:hover {
+  background:linear-gradient(90deg, rgba(0,0,0, 0.5),rgba(0,0,0, 0.5)), url(../img/poke.png);
+}
+
+.fondofinal {
+  background:linear-gradient(90deg, rgba(153,104,153, 0.6),rgba(255, 0, 0, 0.4)), url(../img/fondofinal.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 400px;
+}
+.fondofinal h1 {
+  color:#fff;
+  font-size: 40px;
+  font-family: "lato";
+  padding-top:15%;
+}
+.fondofinal h2 {
+  color:#fff;
+  font-size: 40px;
+  font-family: "lato";
+}
+.fondofinal p {
+  color: #BDE6EB;
+  font-size: 30px;
+  font-family: "lato";
+}

@@ -91,7 +91,7 @@
   font-family: "lato";
   padding: 1%;
   padding-left: 5%;
-  text-shadow: 1px 1px 1px #000;
+  text-shadow: 1px 1px 1px  #fff;
 }
 .fondo4 {
   background: rgba(61,88,113,1);
@@ -125,7 +125,7 @@
   height:100%;
 }
 .negro h1 {
-  color:#fff;
+  color:#121111;
   text-align: center;
   padding-top: 20%;
   font-size: 45px;
@@ -140,14 +140,14 @@
     transition: 2s;
 }
 .fondo6 h1 {
-  color: #FCB3B3;
+  color: #000000;
   font-size: 55px;
   font-family: "lato";
   text-align: center;
   padding-top: 15%;
 }
 .fondo6 p {
-  color: #88B4B2;
+  color: #131211;
   font-size: 35px;
   font-family: "lato";
   text-align: center;
@@ -165,18 +165,18 @@
   height: 400px;
 }
 .fondofinal h1 {
-  color:#fff;
+  color:#1B0821;
   font-size: 40px;
   font-family: "lato";
   padding-top:15%;
 }
 .fondofinal h2 {
-  color:#fff;
+  color:#000000;
   font-size: 40px;
   font-family: "lato";
 }
 .fondofinal p {
-  color: #BDE6EB;
+  color: #000000;
   font-size: 30px;
   font-family: "lato";
 }

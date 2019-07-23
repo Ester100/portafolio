@@ -17,7 +17,6 @@
   font-size: 20px;
   padding: 3%;
   transition: 1s;
-  text-transform: capitalize;
 }
 .textmenu:hover {
   color:#FFF;
